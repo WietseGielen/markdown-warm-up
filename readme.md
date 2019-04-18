@@ -1,7 +1,8 @@
-Website URL: https://www.sphere.bc.ca/test/sruniverse.html /n
-No, last update was in 2015 /n
-I've googled 'Most Ugly Website' /n
-There are too much boxes /n
-- More CSS /n
-- Better alligning /n
+# Markdown Warm Up <br />
+Website URL: https://www.sphere.bc.ca/test/sruniverse.html <br />
+No, last update was in 2015 <br />
+I've googled 'Most Ugly Website' <br />
+## What's needed? <br />
+- More CSS
+- Better alligning
 - other color palette
