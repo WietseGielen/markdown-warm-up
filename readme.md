@@ -5,7 +5,7 @@ The last update was in january 2019.
 We've googled 'Most Ugly Website' and this was the winner.   
 
 ## What's needed? 
-- More CSS
+- Better CSS
 - Better alligning
 - other color palette
 - needs better *listing* .  
