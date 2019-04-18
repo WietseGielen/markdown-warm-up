@@ -7,6 +7,12 @@ I've googled 'Most Ugly Website' <br />
 - Better alligning
 - other color palette
 <br />
+<<<<<<< HEAD
 ## i agree. needs better *listing* .
 <br /> 
 # the site is not active on **social media** for as far as we can see
+=======
+i agree. needs better * listing .
+<br /> 
+the site is not active on ** social media for as far as we can see
+>>>>>>> 3b60eb65bfc57ee1d6ec116140a69d653be70f9c
