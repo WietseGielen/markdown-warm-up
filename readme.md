@@ -1,8 +1,8 @@
 
 # Markdown Warm Up
-Website URL: https://www.sphere.bc.ca/test/sruniverse.html
-Yes, the last one was in january 2019
-I've googled 'Most Ugly Website'
+Website URL: https://www.sphere.bc.ca/test/sruniverse.html  
+Yes, the last one was in january 2019.  
+We've googled 'Most Ugly Website'.  
 
 ## What's needed? 
 - More CSS
