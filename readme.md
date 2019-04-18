@@ -2,7 +2,9 @@
 # Markdown Warm Up
 Website URL: https://www.sphere.bc.ca/test/sruniverse.html    
 The last update was in january 2019.  
-We've googled 'Most Ugly Website' and this was the winner.   
+We've googled 'Most Ugly Website' and this was the winner.     
+  
+we are not really sure what this website does. we think they sell stuff
 
 ## What's needed? 
 - Better CSS
