@@ -1,9 +1,7 @@
-Website URL: https://www.sphere.bc.ca/test/sruniverse.html
-No, last update was in 2015
-I've googled 'Most Ugly Website'
-There are too much boxes
-
-No
-CSS - It needs more CSS badly
-alligning
-Color palette
+Website URL: https://www.sphere.bc.ca/test/sruniverse.html /n
+No, last update was in 2015 /n
+I've googled 'Most Ugly Website' /n
+There are too much boxes /n
+- More CSS /n
+- Better alligning /n
+- other color palette
