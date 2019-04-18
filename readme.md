@@ -6,3 +6,5 @@ I've googled 'Most Ugly Website' <br />
 - More CSS
 - Better alligning
 - other color palette
+<br />
+i agree. needs better *listing*
